@@ -1,0 +1,17 @@
+name : " Hello Actions "
+ description : " Menyapa seseorang "
+ penulis : " octocat@github.com "
+
+input :
+   MY_NAME :
+     deskripsi : " Siapa yang harus menyambut "
+     diperlukan : true 
+    default : " World "
+
+berjalan :
+   menggunakan : " buruh pelabuhan "
+   gambar : " Dockerfile "
+
+branding :
+   ikon : " mic "
+   color : " purple "
